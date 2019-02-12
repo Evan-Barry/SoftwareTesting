@@ -1,4 +1,5 @@
 import org.junit.Test;
+import org.junit.runners.model.TestTimedOutException;
 
 import static org.junit.Assert.*;
 
@@ -31,7 +32,7 @@ public class DriverTest {
     }
 
     @Test
-    public void testIsNotBanned()
+    public void testCheckStatus()
     {
         assertEquals(false, d.check_status());
     }
@@ -45,7 +46,7 @@ public class DriverTest {
     @Test
     public void testGetToString()
     {
-        assertEquals("\nDriver Name: "+d.getDriverName()+"\nDriver Number: "+d.getDriverNum(), d.toString());
+        assertEquals("\nDriver Name: Dan\nDriver Number: 12345", d.toString());
     }
 
 }

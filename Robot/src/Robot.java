@@ -61,4 +61,26 @@ public class Robot {
             //do nothing
         }
     }
+
+    public String checkAge()
+    {
+        if(age <= 20)
+        {
+            return "Age ok";
+        }
+
+        else
+        {
+            return "Too old";
+        }
+    }
+
+    public double checkCost() {
+        if (age <= 5) {
+            return 10000.00;
+        } else if (age <= 10) {
+            return 7500.00;
+        } else return 5000.00;
+    }
+
 }
