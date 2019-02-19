@@ -2,12 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7a469b1e-5afd-4eab-a999-1d25c6d22dc0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Driver/test/DriverPrivateTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Robot/Test/RobotCostParamTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Robot/Test/RobotParamTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Robot/Test/RobotPrivateTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Driver/test/DriverTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Driver/test/DriverTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/cglib_nodep_2_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Driver/test/DriverScreenOutputTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Robot/Test/RobotMockTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Robot/Test/RobotScreenOutputTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Robot/src/Engineer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Robot/src/Owner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/ST.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ST.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Driver/out/production/ST/Driver.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Driver/out/production/ST/Robot.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Driver/out/test/ST/DriverPrivateTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Driver/out/test/ST/DriverTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Driver/out/test/ST/RobotCostParamTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Driver/out/test/ST/RobotParamTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Driver/out/test/ST/RobotPrivateTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Driver/out/test/ST/RobotTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Driver/src/Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/Driver/src/Driver.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Robot/src/Robot.java" beforeDir="false" afterPath="$PROJECT_DIR$/Robot/src/Robot.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,109 +28,104 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ErrorTreeViewConfiguration">
+    <option name="autoscrollToSource" value="true" />
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="true" />
+  </component>
   <component name="FUSProjectUsageTrigger">
     <session id="1965049019">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
           <entry key="project.closed" value="1" />
+          <entry key="project.open.time.22" value="1" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="9" />
+          <entry key="class" value="4" />
+          <entry key="java" value="25" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="9" />
+          <entry key="CLASS" value="4" />
+          <entry key="JAVA" value="25" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="747" />
+          <entry key="java" value="1950" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="747" />
+          <entry key="JAVA" value="1950" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Robot/src/Robot.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="16" selection-start-column="16" selection-end-column="16" />
+            <state relative-caret-position="368">
+              <caret line="108" column="37" selection-start-line="108" selection-start-column="37" selection-end-line="108" selection-end-column="37" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Robot/Test/RobotPrivateTest.java">
+        <entry file="file://$PROJECT_DIR$/Robot/Test/RobotMockTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="419">
-              <caret line="69" column="5" lean-forward="true" selection-start-line="39" selection-start-column="4" selection-end-line="69" selection-end-column="5" />
+            <state relative-caret-position="317">
+              <caret line="51" column="27" selection-start-line="51" selection-start-column="27" selection-end-line="51" selection-end-column="27" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Robot/Test/RobotCostParamTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="232">
-              <caret line="25" column="22" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Robot/Test/RobotParamTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" selection-start-line="9" selection-end-line="9" selection-end-column="37" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Robot/Test/RobotTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-278">
-              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Driver/src/Driver.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="15" selection-start-column="15" selection-end-column="15" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Driver/test/DriverPrivateTest.java">
+        <entry file="file://$PROJECT_DIR$/Robot/src/Engineer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="307">
-              <caret line="40" column="16" selection-start-line="40" selection-start-column="16" selection-end-line="40" selection-end-column="16" />
+            <state relative-caret-position="493">
+              <caret line="29" column="5" selection-start-line="27" selection-start-column="29" selection-end-line="29" selection-end-column="5" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#225#226#0" expanded="true" />
+                <element signature="e#257#258#0" expanded="true" />
+                <element signature="e#301#302#0" expanded="true" />
+                <element signature="e#345#346#0" expanded="true" />
+                <element signature="e#376#377#0" expanded="true" />
+                <element signature="e#403#404#0" expanded="true" />
+                <element signature="e#440#441#0" expanded="true" />
+                <element signature="e#475#476#0" expanded="true" />
+                <element signature="e#507#508#0" expanded="true" />
+                <element signature="e#587#588#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Robot/src/Owner.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="544">
+              <caret line="32" selection-start-line="32" selection-end-line="32" />
+              <folding>
+                <element signature="e#236#237#0" expanded="true" />
+                <element signature="e#268#269#0" expanded="true" />
+                <element signature="e#322#323#0" expanded="true" />
+                <element signature="e#375#376#0" expanded="true" />
+                <element signature="e#406#407#0" expanded="true" />
+                <element signature="e#433#434#0" expanded="true" />
+                <element signature="e#479#480#0" expanded="true" />
+                <element signature="e#518#519#0" expanded="true" />
+                <element signature="e#550#551#0" expanded="true" />
+                <element signature="e#632#633#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -130,6 +137,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JUnit4 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -141,10 +149,16 @@
       <list>
         <option value="$PROJECT_DIR$/Driver/test/DriverTest.java" />
         <option value="$PROJECT_DIR$/Robot/Test/RobotParamTest.java" />
-        <option value="$PROJECT_DIR$/Robot/src/Robot.java" />
         <option value="$PROJECT_DIR$/Robot/Test/RobotCostParamTest.java" />
         <option value="$PROJECT_DIR$/Robot/Test/RobotPrivateTest.java" />
         <option value="$PROJECT_DIR$/Driver/test/DriverPrivateTest.java" />
+        <option value="$PROJECT_DIR$/Robot/Test/RobotScreenOutputTest.java" />
+        <option value="$PROJECT_DIR$/Driver/src/Driver.java" />
+        <option value="$PROJECT_DIR$/Driver/test/DriverScreenOutputTest.java" />
+        <option value="$PROJECT_DIR$/Robot/src/Owner.java" />
+        <option value="$PROJECT_DIR$/Robot/src/Engineer.java" />
+        <option value="$PROJECT_DIR$/Robot/src/Robot.java" />
+        <option value="$PROJECT_DIR$/Robot/Test/RobotMockTest.java" />
       </list>
     </option>
   </component>
@@ -177,17 +191,6 @@
             <path>
               <item name="ST" type="b2602c69:ProjectViewProjectNode" />
               <item name="ST" type="462c0819:PsiDirectoryNode" />
-              <item name="Driver" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ST" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ST" type="462c0819:PsiDirectoryNode" />
-              <item name="Driver" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ST" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ST" type="462c0819:PsiDirectoryNode" />
               <item name="Robot" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -214,11 +217,11 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549986533979" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550591805388" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
-    <property name="last_directory_selection" value="$PROJECT_DIR$/Driver/test" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/Robot/Test" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/powermock-easymock-junit-1.7.1/powermock-easymock-junit-1.7.1/powermock-easymock-1.7.1-full.jar!/" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -246,69 +249,65 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.DriverPrivateTest">
-    <configuration name="DriverPrivateTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.RobotMockTest.testEngineer">
+    <configuration name="DriverScreenOutputTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ST" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="DriverPrivateTest" />
+      <option name="MAIN_CLASS_NAME" value="DriverScreenOutputTest" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DriverPrivateTest.testSetAge" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="RobotMockTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ST" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="DriverPrivateTest" />
-      <option name="METHOD_NAME" value="testSetAge" />
+      <option name="MAIN_CLASS_NAME" value="RobotMockTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RobotMockTest.testEngineer" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ST" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RobotMockTest" />
+      <option name="METHOD_NAME" value="testEngineer" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DriverPrivateTest.testSetDriverNum" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="RobotMockTest.testOwner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ST" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="DriverPrivateTest" />
-      <option name="METHOD_NAME" value="testSetDriverNum" />
+      <option name="MAIN_CLASS_NAME" value="RobotMockTest" />
+      <option name="METHOD_NAME" value="testOwner" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DriverPrivateTest.testSetDriverNum1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="RobotScreenOutputTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ST" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="DriverPrivateTest" />
-      <option name="METHOD_NAME" value="testSetDriverNum1" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RobotPrivateTest.testSetAge" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="ST" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="RobotPrivateTest" />
-      <option name="METHOD_NAME" value="testSetAge" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="MAIN_CLASS_NAME" value="RobotScreenOutputTest" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.RobotPrivateTest.testSetAge" />
-      <item itemvalue="JUnit.DriverPrivateTest.testSetAge" />
-      <item itemvalue="JUnit.DriverPrivateTest.testSetDriverNum" />
-      <item itemvalue="JUnit.DriverPrivateTest.testSetDriverNum1" />
-      <item itemvalue="JUnit.DriverPrivateTest" />
+      <item itemvalue="JUnit.RobotScreenOutputTest" />
+      <item itemvalue="JUnit.DriverScreenOutputTest" />
+      <item itemvalue="JUnit.RobotMockTest" />
+      <item itemvalue="JUnit.RobotMockTest.testEngineer" />
+      <item itemvalue="JUnit.RobotMockTest.testOwner" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.DriverPrivateTest" />
-        <item itemvalue="JUnit.DriverPrivateTest.testSetDriverNum1" />
-        <item itemvalue="JUnit.DriverPrivateTest.testSetDriverNum" />
-        <item itemvalue="JUnit.DriverPrivateTest.testSetAge" />
-        <item itemvalue="JUnit.RobotPrivateTest.testSetAge" />
+        <item itemvalue="JUnit.RobotMockTest.testEngineer" />
+        <item itemvalue="JUnit.RobotMockTest.testOwner" />
+        <item itemvalue="JUnit.RobotMockTest" />
+        <item itemvalue="JUnit.DriverScreenOutputTest" />
+        <item itemvalue="JUnit.RobotScreenOutputTest" />
       </list>
     </recent_temporary>
   </component>
@@ -323,75 +322,77 @@
       <option name="presentableId" value="Default" />
       <updated>1549980334224</updated>
       <workItem from="1549980338380" duration="5898000" />
+      <workItem from="1550584520416" duration="7264000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="RobotPrivateTest_testSetAge - 2019.02.12 at 15h 31m 32s.xml">
-      <configuration name="RobotPrivateTest.testSetAge" configurationId="JUnit" />
+    <history-entry file="RobotMockTest_testEngineer - 2019.02.19 at 15h 49m 12s.xml">
+      <configuration name="RobotMockTest.testEngineer" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DriverPrivateTest_testSetAge - 2019.02.12 at 15h 34m 44s.xml">
-      <configuration name="DriverPrivateTest.testSetAge" configurationId="JUnit" />
+    <history-entry file="RobotMockTest_testOwner - 2019.02.19 at 15h 49m 17s.xml">
+      <configuration name="RobotMockTest.testOwner" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DriverPrivateTest_testSetAge - 2019.02.12 at 15h 34m 57s.xml">
-      <configuration name="DriverPrivateTest.testSetAge" configurationId="JUnit" />
+    <history-entry file="RobotMockTest_testOwner - 2019.02.19 at 15h 49m 59s.xml">
+      <configuration name="RobotMockTest.testOwner" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DriverPrivateTest_testSetDriverNum - 2019.02.12 at 15h 35m 55s.xml">
-      <configuration name="DriverPrivateTest.testSetDriverNum" configurationId="JUnit" />
+    <history-entry file="RobotMockTest_testEngineer - 2019.02.19 at 15h 50m 39s.xml">
+      <configuration name="RobotMockTest.testEngineer" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DriverPrivateTest_testSetDriverNum1 - 2019.02.12 at 15h 37m 38s.xml">
-      <configuration name="DriverPrivateTest.testSetDriverNum1" configurationId="JUnit" />
+    <history-entry file="RobotMockTest - 2019.02.19 at 15h 51m 06s.xml">
+      <configuration name="RobotMockTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DriverPrivateTest_testSetDriverNum1 - 2019.02.12 at 15h 37m 48s.xml">
-      <configuration name="DriverPrivateTest.testSetDriverNum1" configurationId="JUnit" />
+    <history-entry file="RobotMockTest - 2019.02.19 at 15h 51m 37s.xml">
+      <configuration name="RobotMockTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DriverPrivateTest - 2019.02.12 at 15h 37m 53s.xml">
-      <configuration name="DriverPrivateTest" configurationId="JUnit" />
+    <history-entry file="RobotMockTest_testOwner - 2019.02.19 at 15h 52m 59s.xml">
+      <configuration name="RobotMockTest.testOwner" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DriverPrivateTest - 2019.02.12 at 15h 38m 35s.xml">
-      <configuration name="DriverPrivateTest" configurationId="JUnit" />
+    <history-entry file="RobotMockTest_testOwner - 2019.02.19 at 15h 53m 46s.xml">
+      <configuration name="RobotMockTest.testOwner" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DriverPrivateTest - 2019.02.12 at 15h 38m 47s.xml">
-      <configuration name="DriverPrivateTest" configurationId="JUnit" />
+    <history-entry file="RobotMockTest_testEngineer - 2019.02.19 at 15h 54m 14s.xml">
+      <configuration name="RobotMockTest.testEngineer" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DriverPrivateTest - 2019.02.12 at 15h 39m 40s.xml">
-      <configuration name="DriverPrivateTest" configurationId="JUnit" />
+    <history-entry file="RobotMockTest_testEngineer - 2019.02.19 at 15h 56m 47s.xml">
+      <configuration name="RobotMockTest.testEngineer" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5898000" />
+    <option name="totallyTimeSpent" value="13162000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12579957" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12686567" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" weight="0.32925472" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32925472" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32925472" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39933258" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32925472" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -399,6 +400,18 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Robot/Test/RobotMockTest.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Driver/test/DriverTest.java">
@@ -413,34 +426,47 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Robot/Test/RobotTest.java">
+    <entry file="file://$PROJECT_DIR$/Robot/Test/RobotPrivateTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-278">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Robot/Test/RobotParamTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" selection-start-line="9" selection-end-line="9" selection-end-column="37" />
+        <state relative-caret-position="1071">
+          <caret line="69" column="5" selection-start-line="39" selection-start-column="4" selection-end-line="69" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Robot/src/Robot.java">
+    <entry file="file://$PROJECT_DIR$/Robot/Test/RobotCostParamTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="16" selection-start-column="16" selection-end-column="16" />
+        <state relative-caret-position="306">
+          <caret line="25" column="22" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Robot/Test/RobotCostParamTest.java">
+    <entry file="file://$PROJECT_DIR$/Robot/Test/RobotTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="25" column="22" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
+        <state relative-caret-position="51">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Driver/test/DriverPrivateTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="40" column="16" selection-start-line="40" selection-start-column="16" selection-end-line="40" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Robot/Test/RobotParamTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="9" selection-start-line="9" selection-end-line="9" selection-end-column="37" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -449,27 +475,125 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Driver/src/Driver.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="15" selection-start-column="15" selection-end-column="15" />
+        <state relative-caret-position="351">
+          <caret line="75" column="38" selection-start-line="75" selection-start-column="32" selection-end-line="75" selection-end-column="38" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Robot/Test/RobotPrivateTest.java">
+    <entry file="file://$PROJECT_DIR$/Driver/test/DriverScreenOutputTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="419">
-          <caret line="69" column="5" lean-forward="true" selection-start-line="39" selection-start-column="4" selection-end-line="69" selection-end-column="5" />
+        <state relative-caret-position="340">
+          <caret line="47" column="28" selection-start-line="47" selection-start-column="28" selection-end-line="47" selection-end-column="28" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Driver/test/DriverPrivateTest.java">
+    <entry file="file://$PROJECT_DIR$/Robot/Test/RobotScreenOutputTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="307">
-          <caret line="40" column="16" selection-start-line="40" selection-start-column="16" selection-end-line="40" selection-end-column="16" />
+        <state relative-caret-position="249">
+          <caret line="43" column="42" selection-start-line="43" selection-start-column="42" selection-end-line="43" selection-end-column="43" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Robot/src/Owner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+          <folding>
+            <element signature="e#236#237#0" expanded="true" />
+            <element signature="e#268#269#0" expanded="true" />
+            <element signature="e#322#323#0" expanded="true" />
+            <element signature="e#375#376#0" expanded="true" />
+            <element signature="e#406#407#0" expanded="true" />
+            <element signature="e#433#434#0" expanded="true" />
+            <element signature="e#479#480#0" expanded="true" />
+            <element signature="e#518#519#0" expanded="true" />
+            <element signature="e#550#551#0" expanded="true" />
+            <element signature="e#632#633#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/powermock-easymock-junit-1.7.1/powermock-easymock-junit-1.7.1/easymock-3.4.jar!/org/easymock/EasyMock.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="120" selection-start-line="120" selection-end-line="120" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/TestMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="379">
+          <caret line="64" selection-start-line="64" selection-end-line="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/powermock-easymock-junit-1.7.1/powermock-easymock-junit-1.7.1/powermock-easymock-1.7.1-full.jar!/org/powermock/modules/junit4/internal/impl/PowerMockJUnit47RunnerDelegateImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="82" selection-start-line="82" selection-end-line="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/MethodRoadie.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="52" selection-start-line="52" selection-end-line="52" />
+          <folding>
+            <element signature="e#3053#3176#0" expanded="true" />
+            <element signature="e#3175#3176#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/powermock-easymock-junit-1.7.1/powermock-easymock-junit-1.7.1/powermock-easymock-1.7.1-full.jar!/org/powermock/modules/junit4/internal/impl/PowerMockJUnit44RunnerDelegateImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="134" selection-start-line="134" selection-end-line="134" />
+          <folding>
+            <element signature="e#5669#5801#0" expanded="true" />
+            <element signature="e#5800#5801#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Robot/Test/RobotMockTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="317">
+          <caret line="51" column="27" selection-start-line="51" selection-start-column="27" selection-end-line="51" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Robot/src/Robot.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="108" column="37" selection-start-line="108" selection-start-column="37" selection-end-line="108" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Robot/src/Engineer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="5" selection-start-line="27" selection-start-column="29" selection-end-line="29" selection-end-column="5" />
+          <folding>
+            <element signature="e#225#226#0" expanded="true" />
+            <element signature="e#257#258#0" expanded="true" />
+            <element signature="e#301#302#0" expanded="true" />
+            <element signature="e#345#346#0" expanded="true" />
+            <element signature="e#376#377#0" expanded="true" />
+            <element signature="e#403#404#0" expanded="true" />
+            <element signature="e#440#441#0" expanded="true" />
+            <element signature="e#475#476#0" expanded="true" />
+            <element signature="e#507#508#0" expanded="true" />
+            <element signature="e#587#588#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -515,7 +639,7 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
-          <last-edited>10</last-edited>
+          <last-edited>1.8</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -540,6 +664,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
+          <last-edited>cglib-nodep-2.2.2</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

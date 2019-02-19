@@ -83,4 +83,31 @@ public class Robot {
         } else return 5000.00;
     }
 
+    public void sendAgeMsg() throws IllegalArgumentException {
+        try {
+            if (age > 25) {
+                throw new IllegalArgumentException("Age too old");
+            }
+
+        } catch (IllegalArgumentException e) {
+            System.out.println("Error " + e.getMessage());
+        }
+        System.out.println( "Age ok");
+    }
+
+    public double recordOwnerAndMonthlyPayments(String name) {
+
+        double cost = checkCost();
+        System.out.println ( name + cost);
+        Owner myOwner = new Owner(name, cost);
+        return myOwner.getMonthlyPayments();
+    }
+
+    public int recordEngineer(String name, int phone_no){
+
+        Engineer creator = new Engineer(name, phone_no);
+        return creator.getContactNo();
+    }
+
+
 }

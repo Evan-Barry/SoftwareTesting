@@ -20,5 +20,6 @@
         <SOURCES />
       </library>
     </orderEntry>
+    <orderEntry type="library" name="cglib-nodep-2.2.2" level="project" />
   </component>
 </module>
